@@ -1,0 +1,18 @@
+{
+  "name": "desafio-backend-serafini-n3",
+  "version": "1.0.0",
+  "description": "Desafio de la clase 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Mateo Serafini",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
